@@ -1,3 +1,16 @@
 /* This is my stylesheet for the homepage */
 
 * {outline: 1px solid red;}
+
+/* header styles */
+
+/* main body styles */
+
+/* footer styles */
+
+h1, h6 {font-family: cursive;}
+
+header {}
+header h1 {color: red; background-color: yellow;}
+nav{}
+footer {}
