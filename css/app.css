@@ -1,6 +1,5 @@
 /* This is my stylesheet for the homepage */
 
-* {outline: 1px solid red;}
 
 /* header styles */
 
@@ -8,9 +7,31 @@
 
 /* footer styles */
 
-h1, h6 {font-family: cursive;}
 
-header {}
-header h1 {color: red; background-color: yellow;}
-nav{}
-footer {}
+a{
+  margin-left: 50px;
+  color: black;
+}
+
+.rownav {
+  text-align: center;
+  background-color: #C4A4E0;
+  font-size: 20px;
+}
+
+body{
+  background-color: #CAEDF1;
+}
+
+h2{
+  font-size: 20px; font-style: bold;
+}
+
+.rowfooter {color: black;   background-color: #C4A4E0; text-align: center;}
+
+
+.rowheader {color: black; text-align: center;}
+
+figcaption{
+  
+}
